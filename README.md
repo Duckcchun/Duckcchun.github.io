@@ -1,13 +1,23 @@
-♿ 장애인 담론 탐색기
-'전장연은 장애인을 대표하는가?' 라는 질문을 통해, 한국 사회의 장애인 인권 담론이 형성되는 구조를 시각적으로 탐색하는 단일 페이지 인터랙티브 웹 애플리케이션입니다.
-이 프로젝트는 텍스트 중심의 분석 보고서를 사용자들이 더 쉽게 이해하고 상호작용할 수 있도록 웹 기술을 통해 재구성 했습니다.
-🌐 웹사이트 바로가기
-https://duckcchun.github.io/
-✨ 주요 기능
-* 인터랙티브 탐색: 스크롤과 클릭을 통해 복잡한 담론의 흐름을 단계적으로 학습합니다.
-* 개념 시각화: '대표성의 허상', '과잉 대표의 구조적 원인' 등 추상적인 개념을 시각 자료로 표현하여 직관적인 이해를 돕습니다.
-* 반응형 디자인: 데스크톱, 태블릿, 모바일 등 모든 기기에서 최적화된 화면을 제공합니다.
-🛠️ 사용 기술
-* HTML5
-* Tailwind CSS
-* JavaScript (Vanilla JS)
+# ♿ 장애인 담론 탐색기 (Disability Discourse Explorer)
+
+
+이 프로젝트는 텍스트 중심의 분석 보고서를 사용자들이 더 쉽게 이해하고 상호작용할 수 있도록 웹 기술을 통해 재구성했습니다.
+
+---
+
+### 🌐 웹사이트 바로가기
+**https://duckcchun.github.io/**
+
+<br>
+
+### ✨ 주요 기능
+-   **인터랙티브 탐색**: 스크롤과 클릭을 통해 복잡한 담론의 흐름을 단계적으로 학습합니다.
+-   **개념 시각화**: '대표성의 허상', '과잉 대표의 구조적 원인' 등 추상적인 개념을 시각 자료로 표현하여 직관적인 이해를 돕습니다.
+-   **반응형 디자인**: 데스크톱, 태블릿, 모바일 등 모든 기기에서 최적화된 화면을 제공합니다.
+
+<br>
+
+### 🛠️ 사용 기술
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
